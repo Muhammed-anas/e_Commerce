@@ -1,83 +1,84 @@
-# 🛍️ Shopfy - Modern eCommerce Web App
+# 🛍️ Shopfy - Full Stack eCommerce App (MERN)
 
-Welcome to **Shopfy**, a beautifully designed and fully responsive eCommerce web application built with **React**, **TypeScript**, and **Tailwind CSS**. This project is part of my developer portfolio, showcasing my skills in frontend development and UI/UX design.
+Welcome to **Shopfy**, a modern and fully responsive full stack eCommerce application built using the **MERN stack** (MongoDB, Express.js, React, Node.js) with **TypeScript** and **Tailwind CSS** on the frontend.
 
-🔗 **Live Site:** [shopfy-ncx.netlify.app](https://shopfy-ncx.netlify.app/)
+🔗 **Live Demo:** [shopfy-ncx.netlify.app](https://shopfy-ncx.netlify.app/)
 
 ---
 
 ## 👋 Hi, I'm Muhammed Anas
 
-Welcome to my developer portfolio. I'm passionate about software development, Artificial Intelligence, and building physical robots that interact with the real world. This portfolio is a space where I share my projects, skills, and long-term vision.
+I'm a passionate full stack developer with a strong interest in building elegant, scalable, and user-friendly web applications. This project reflects my growing skills in both frontend and backend development using modern JavaScript technologies.
 
 ---
 
-## 🚀 About Shopfy
+## 🚀 Project Overview
 
-**Shopfy** is a fully functional client-side eCommerce platform featuring:
+**Shopfy** is a fully-featured eCommerce platform with:
 
-- 🛒 Product catalog with images, prices, and ratings
-- 🔍 Individual product detail pages
-- 🧺 Add to Cart & Remove from Cart
-- 📦 Multi-step checkout flow
-  - Delivery Address
-  - Payment Details
+- 🛍️ Product Listing with price, image, and rating
+- 🔎 Product Detail Pages with dynamic routing
+- 🛒 Add to Cart & Cart Management
+- 📦 Multi-Step Checkout Process:
+  - Address Input
+  - Payment Section (coming soon)
   - Order Confirmation
-- 💻 Clean, modern responsive UI with Tailwind CSS
+- 🔐 (Optional) User Authentication & Order History (planned)
+- 🌐 Mobile-Responsive UI with Tailwind CSS
 
 ---
 
-## 🧠 My Mission in AI
+## 🧱 Tech Stack
 
-My goal is to create AI-powered robots that go beyond conversation — robots that can **see**, **listen**, **understand**, and **respond** in meaningful ways. Inspired by technologies like **ChatGPT**, I'm working toward building systems that bridge the gap between software and real-world interaction.
+### Frontend
+- **React** with **TypeScript**
+- **Tailwind CSS** for UI design
+- **React Router** for navigation
+- **Axios** for API requests
 
-To me, AI is not just about automation — it's about creating technology that improves how humans interact with machines in daily life.
+### Backend
+- **Node.js** & **Express.js**
+- **MongoDB** with **Mongoose** for database operations
+- **RESTful API** architecture
 
----
-
-## 🛠️ Skills & Technologies Used
-
-### In Shopfy
-
-- **Frontend:** React, TypeScript, Tailwind CSS, React Router
-- **State Management:** useState, Context API (or others as applicable)
-- **UI Features:** Responsive Design, Clean Layout, Card Components
-- **Deployment:** Netlify
-
-### My Broader Skillset
-
-- **Programming:** Python, Java, JavaScript, SQL, HTML/CSS
-- **Web Frameworks:** Flask, Django, Bootstrap
-- **AI/ML Tools:** TensorFlow, scikit-learn, OpenCV, HuggingFace
-- **Dev Tools:** Git, VS Code, SQLite, Postman
-- **Focus Areas:** NLP, Computer Vision, Robotics
+### Dev & Deployment
+- Git & GitHub for version control
+- **Netlify** (Frontend) | **Render / Cyclic / Vercel** (Backend)
+- Postman for API testing
 
 ---
 
-## 🧪 My Other Projects
+## 🧠 Features in Development
 
-Here are a few projects I've built to explore different tech stacks and ideas:
-
-- 🔗 **AI Movie Recommender** using TMDb API
-- 🔗 **Blog Website** with Flask & SQLite
-- 🔗 **Responsive Portfolio Site** (this one!)
-
-Each project helps me move closer to building intelligent systems that think, learn, and act.
+- 🔐 Authentication & JWT-based login system
+- 📦 Admin panel for product & order management
+- 💳 Payment gateway integration (e.g., Stripe/Razorpay)
+- 📝 Order history and receipts
+- 🔍 Search & filter products
 
 ---
 
-## 📚 Currently Exploring
+## 📚 My Broader Skills
 
-- 🤖 Robotics with Raspberry Pi & Python
-- 🧠 Deep Learning & Model Fine-tuning
-- 🗣️ Building multimodal AI assistants (voice, vision, motion)
-- ⚙️ Advanced Django development
+- **Languages:** Python, JavaScript, TypeScript, Java, SQL, HTML, CSS  
+- **Web Development:** React, Django, Flask, Bootstrap  
+- **AI Tools:** TensorFlow, scikit-learn, HuggingFace, OpenCV  
+- **Databases:** MongoDB, SQLite, PostgreSQL  
+- **Tools:** Git, VS Code, Netlify, Postman, GitHub
 
 ---
 
-## 💬 Let’s Connect
+## 💼 Other Projects
 
-Interested in AI, robotics, or full stack Python development? Let's connect and share ideas.
+- 🎬 AI Movie Recommender (TMDb API)
+- 📝 Blog CMS with Flask & SQLite
+- 💻 Responsive Developer Portfolio
+
+---
+
+## 💬 Let's Connect
+
+Want to collaborate or discuss ideas? Feel free to reach out!
 
 - 📧 **Email:** muhammedanas6282@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/muhammedanas](https://www.linkedin.com/in/muhammedanas)  
@@ -85,5 +86,4 @@ Interested in AI, robotics, or full stack Python development? Let's connect and 
 
 ---
 
-> _“To invent the future, you must first imagine it. And then start building.”_
-
+> _“The best way to predict the future is to create it.” – Abraham Lincoln_
