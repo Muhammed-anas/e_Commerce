@@ -70,10 +70,11 @@ I'm a passionate full stack developer with a strong interest in building elegant
 
 ## 💼 Other Projects
 
-- 🎬 AI Movie Recommender (TMDb API)
-- 📝 Blog CMS with Flask & SQLite
-- 💻 Responsive Developer Portfolio
+- 🤖 **[GalaxNova](https://galaxnova.netlify.app/)** – AI-themed chatbot interface built with React + Tailwind CSS  
+- 🚘 **[Autolux](https://autolux-ntbk.onrender.com/)** – Vehicle services automation platform powered by Django  
+- 📝 **[Bloggy](https://bloggy-4xrs.onrender.com)** – Django-based blogging platform with image uploads and post management  
 
+> Explore more on my [GitHub profile](https://github.com/Muhammed-anas)
 ---
 
 ## 💬 Let's Connect
